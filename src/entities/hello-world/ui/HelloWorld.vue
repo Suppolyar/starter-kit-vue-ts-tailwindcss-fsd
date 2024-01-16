@@ -36,6 +36,7 @@ interface ITecnhology {
   name: string;
   textColor: string;
 }
+
 const whatIncludeThisTemplate: ITecnhology[] = [
   {
     name: "Vite",

@@ -8,8 +8,9 @@ module.exports = {
         'eslint:recommended',
         '@vue/typescript',
         'plugin:prettier/recommended',
-        "plugin:tailwindcss/recommended"
-    ],
+        "plugin:tailwindcss/recommended",
+        "@feature-sliced"
+],
     parserOptions: {
         ecmaVersion: 2020,
     },
