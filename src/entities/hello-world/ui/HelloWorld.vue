@@ -6,7 +6,7 @@
       This is my custom template🧑‍💻<br />
       I will be glad if you put ⭐ on this
       <a
-        href="https://github.com/Suppolyar/my-work-template"
+        href="https://github.com/Suppolyar/starter-kit-vue-ts-tailwindcss-fsd"
         target="_blank"
         class="font-semibold text-sky-700 hover:underline"
         >repository in github</a
